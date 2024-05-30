@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adrian Carvajal
-- 👀 I’m interested in learning JavaScript and task automation.
+- 👀 I’m interested in learning JavaScript and Python for task automation.
 - 🌱 I’m currently taking CS50 and trying to figured out programming.
-- 💞️ I’m looking to collaborate on task automation at my current job.
+- 💞️ I’m looking to collaborate on task automation with my son.
 - 📫 How to reach me - My email is acarvjl@outlook.com......
 
 <!---
